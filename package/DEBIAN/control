@@ -1,0 +1,10 @@
+Package: poop
+Version: 1.0
+Section: uncrown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: doob.poop <peep@doob.poop>
+Description: Check random login from random user
